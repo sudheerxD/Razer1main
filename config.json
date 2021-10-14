@@ -1,0 +1,43 @@
+{
+    "TOKEN": "ODk3MTM0MTI4OTUxMDgzMDcw.YWRPRA.kS0mTtPoY5kY8HnANR2w5giTa_Q",
+    "PREFIX": "$",
+    "OWNERS": [
+        "781882376790736937","703949805457637471" , "798871663704932402"
+    ],
+    "MONGODB_URI": "mongodb+srv://SudheeR:sudheer123@discordbot.w1nvr.mongodb.net/discordbotdb?retryWrites=true&w=majority",
+    "SPOTIFY_CLIENT_ID": "851b247dd9ee44d49044a1df14a8587c",
+    "SPOTIFY_CLIENT_SECRET": "a35cbd8406864436b856c75d3b274262",
+    "KSOFT_API_KEY": "",
+    "NODES": [
+        {
+            "HOST": "Razor-Node-2.sudheerxd.repl.co",
+            "PASSWORD": "RAZOR.PRO",
+            "PORT": 443,
+            "IDENTIFIER": "Razer-node-0",
+            "RETRY_AMOUNT": 3,
+            "RETRY_DELAY": 1000,
+            "SECURE": true
+        },
+        {
+            "HOST": "Razor-node-1.lbgamer.repl.co",
+            "PASSWORD": "RAZOR.PRO",
+            "PORT": 443,
+            "IDENTIFIER": "Razer-node-1",
+            "RETRY_AMOUNT": 3,
+            "RETRY_DELAY": 1000,
+            "SECURE": true
+        },
+        {
+            "HOST": "lavalink-repl.sudheerbuvvana6.repl.co",
+            "PASSWORD": "RAZOR.PRO",
+            "PORT": 443,
+            "IDENTIFIER": "Razer-node-2",
+            "RETRY_AMOUNT": 3,
+            "RETRY_DELAY": 1000,
+            "SECURE": true
+        }
+    ],
+     "AUTO_RESUME_DELAY": 1500,
+    "DEBUG": true,
+    "LOG_USAGE": false
+}
